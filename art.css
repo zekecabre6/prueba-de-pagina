@@ -29,3 +29,21 @@ h1{
  
     display: inline-block;
 }
+.color_de_pagina{
+    background-color: violet;
+
+}
+.--listas{
+    animation-iteration-count: border: 100px solid #000;;
+   
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px;
+
+    border: 1px solid blue;
+    box-shadow: 5px 6px 20px #000;
+    text-shadow: 2px 3px 1px #fff;
+}
+.--listas:hover {
+    background-color: red
+}
