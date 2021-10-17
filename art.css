@@ -1,0 +1,31 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    font-size: 30px;
+}
+h1{
+    background-color: orangered;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px;
+    border-radius: 60px;
+    border: 1px solid blue;
+    box-shadow: 40px 6px 20px #000;
+    text-shadow: 2px 3px 1px #fff;
+    transform: rotate(10deg);
+}
+.caja1{
+    display: block;
+}
+.caja2{
+    display: inline-block;
+
+}
+
+.juego{
+    display: inline-block;
+ 
+    display: inline-block;
+}
